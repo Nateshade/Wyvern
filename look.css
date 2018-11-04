@@ -7,7 +7,7 @@ body            {letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Sha
                 font-weight: 400; font-size: 17px; color: #0F8; background: #222;}
 .logohead		{letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Share Tech Mono', Monospace, Courier; 
                 font-weight: 400; font-size: 17px; color: #0F8; background: #222;}
-.header			{height: 66px; width: 100%; margin: auto; margin-bottom: 50px; border-bottom: dotted 1px #0F8;}
+.header			{height: 72px; width: 100%; margin: auto; margin-bottom: 50px; border-bottom: dotted 1px #0F8;}
 .logodiv 		{max-width: 900px; margin:auto;}
 .logo			{width: 17px; margin: auto; margin-top: 20px;}
 .content		{font-family: 'Share Tech Mono', Monospace, Courier;}
