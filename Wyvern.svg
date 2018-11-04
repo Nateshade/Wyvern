@@ -28,8 +28,6 @@
 
 <circle cx="110" cy="90" r="5" fill="#222222" stroke="#222222" />
 
-<!--text-->
-<text x="-25" y="220" fill="#FF009F" font-family="'Share Tech Mono', Monospace, Courier" font-size="30px" >WyvernFeed</text>
 
 </g>
 </svg>
