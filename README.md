@@ -1,2 +1,2 @@
 # Wyvern
-Prototype for a feed website for N-O-D-E
+W.I.P. for a feed website for N-O-D-E
