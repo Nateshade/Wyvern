@@ -3,7 +3,7 @@
   xmlns:xlink= "http://www.w3.org/1999/xlink">
   <!-- clipping paths here! -->
   <defs>
- <g transform="scale(4)">
+
    <!--clip1-->
     <clipPath id="CUT">
       <polygon points="-100 -100 -100 240 110 200 120 141.8 100 141.8 70 -100 130 130 z" />
@@ -12,7 +12,7 @@
 
   </defs>
 
-
+<g transform="scale(4)">
 <!--Background-->
  <rect x="0" y="0" width="240" height="200" fill="#222222"/>
   
