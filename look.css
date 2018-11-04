@@ -1,3 +1,8 @@
+@font-face 		{
+				font-family: 'Share Tech Mono';
+				src: url('https://github.com/Nateshade/Wyvern/ShareTechMono-Regular.ttf') format('truetype')
+}
+
 
 body            {letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Share Tech Mono', Monospace, Courier; 
                 font-weight: 400; font-size: 17px; color: #FF009F; background: #222;}
