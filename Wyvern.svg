@@ -13,12 +13,13 @@
   </defs>
 
 
-
-<g transform="translate(60 -30)">
 <!--Background-->
  <rect x="0" y="0" width="240" height="200" fill="#222222"/>
+  
+<g transform="translate(60 -30)">
+
 <!--Logo-->
-<circle cx="50" cy="110" r="60" fill="none" stroke="#0F8" stroke-width="25" clip-path="url(#G)"/>
+<circle cx="50" cy="110" r="60" fill="none" stroke="#0F8" stroke-width="25" clip-path="url(#CUT)"/>
 
 <line x1="38" x2="95" y1="60" y2="60" stroke="#0F8" stroke-width="45" />
 
