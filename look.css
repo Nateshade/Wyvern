@@ -1,9 +1,7 @@
 @font-face 		{
 				font-family: 'Share Tech Mono';
-				src: url('https://n-o-d-e.hashbase.io/fonts/font.eot');
-				src: url('https://n-o-d-e.hashbase.io/fonts/font.woff') format('woff'), url('https://n-o-d-e.hashbase.io/fonts/font.ttf') format('truetype'), url('https://n-o-d-e.hashbase.io/fonts/font.svg') format('svg');
-				}
-
+				src: 'ShareTechMono-Regular.ttf';
+}
 
 body            {letter-spacing: 0.1px; padding: 0; margin: 0; font-family: 'Share Tech Mono', Monospace, Courier; 
                 font-weight: 400; font-size: 17px; color: #FF009F; background: #222;}
